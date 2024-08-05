@@ -1,0 +1,28 @@
+Dado: Elemento que por si só não tem contexto
+
+Informação: Dados contextualizados
+
+Servidores: 
+Computador com grande capacidade de:
+>Processamento
+>Armazenamento
+
+Distro: Versões do linux
+Debian
+CentOS
+Kalilinux (pentest)
+
+servidor apache
+
+protocolo: São regras de comunicação
+Exemplo :HTTP
+
+portas de comunicação
+latência
+
+
+comando CMD:
+>ping: verficar se um servidor está de
+>Tracert: Rastrear a rota de um pacote
+
+TTL: time to live
