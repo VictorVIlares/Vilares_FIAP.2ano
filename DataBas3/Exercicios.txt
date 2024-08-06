@@ -1,0 +1,12 @@
+O que são dados?
+São informaões analisadas e talvez armazenadas por alguem ou algum orgão
+
+O que são informações?
+É a extração de alguma coisa dos dados
+
+Por que é tão importante?
+Para poder organizar a vida das pessoas e facilitar o armazenamento das coisas
+
+
+Exemplo que os dois trabalham juntos?
+Quando algum usuario faz login em um app de banco e o aplicativo informa saldo boletos histórico e etc
